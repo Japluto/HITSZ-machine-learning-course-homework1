@@ -1,4 +1,4 @@
-## HITSZ-machine-learning-course-homework1
+## 哈工深 AUTO3019 机器学习第一次作业
 ---
 * 这个repo存储了2025学年秋季学期机器学习课程（xh老师开的课程，课程号AUTO3019）的第一次课程作业代码
 * 作者：Japluto
